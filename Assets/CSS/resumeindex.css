@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
+
+@-ms-viewport{
+    width: device-width;
+}
+body {
+    font-family: 'Nunito Sans', sans-serif !important;
+    text-decoration: none;
+    margin: 0;
+    background-color: #C0C0C0;
+}
+.document {
+    margin-left: 20rem;
+}
+.document a {
+    margin-left: 20rem;
+}

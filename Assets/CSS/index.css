@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
+
+@-ms-viewport{
+    width: device-width;
+}
+body {
+    font-family: 'Nunito Sans', sans-serif !important;
+    text-decoration: none;
+    margin: 0;
+    background-color: #C0C0C0;
+}
+.container{
+    background-color: black;
+    display: table;
+    width: 100%;
+    position: fixed;
+
+}
+.name {
+    font-size: 1rem;
+    letter-spacing: 4px;
+    text-transform: none;
+    font-weight: 100;
+    color: black;
+    margin-top: 2rem;
+    float: left;
+    
+}
+.name a {
+    margin-left: 3rem;
+    color: grey;
+    text-decoration: none;
+}
+
+.navbar {
+    float: right;
+    margin-right: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+    display: block !important;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: grey;
+}
+
+.navbar li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 2rem;
+    text-transform:  none;
+    letter-spacing: 7px;
+    margin-right: 2rem; 
+}
+
+.navbar a:hover{
+    background-color: #C0C0C0;
+    color: white;
+    font-weight: bold;
+}
+/* HAMBURGER ICON */
+.navbar-btn {
+    padding-inline-start: 1px !important;
+    float: right;
+    display: none;
+
+}
+
+.ham_menu{
+    width: 35px;
+    height:3px;
+    background-color: #C0C0C0;
+    margin: 0.5rem 0;
+    border-radius:1px;
+    display: none;
+}
+/* HAMBURGER ICON */
+
+/*Javascript*/
+.hidehamburger{
+    visibility: hidden;
+}
+
+.ext-img{
+    background-image: url(/Assets/Images/exit.png);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* NAVBAR ENDS */
+
+/* RESPONSIVE LAYER */
+
+@media screen and (min-width:840px) {
+    .navbar li {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        display: block;
+    }
+    .ham_menu{
+        display: block !important;
+    }
+    .navbar-btn{
+        margin-top: -2rem;
+        display: block;
+
+    }
+    .navbar{
+        width: 100%;
+    }
+    .full-navbar{
+        display: none;
+    }
+  }
+  
+  @media screen and (min-width:840px) {
+    .full-navbar{
+        display: block !important;
+    }
+}
+/* RESPONSIVE LAYER */
+
+
+

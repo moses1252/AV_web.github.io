@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
+
+@-ms-viewport{
+    width: device-width;
+}
+body {
+    font-family: 'Nunito Sans', sans-serif !important;
+    text-decoration: none;
+    margin: 5;
+    background-color: #C0C0C0;
+}
+.container{
+    background-color: black;
+    display: table;
+    width: 100%;
+}
+.name {
+    font-family: 'oblique', sans-serif !important;
+    font-size: 1rem;
+    letter-spacing: 3px;
+    text-transform: none;
+    color: #C0C0C0;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align:center;
+    
+}
+.name a {
+    margin-left: rem;
+    text-decoration: none;
+}
+.name2 {
+    border: 5px dotted aquamarine;
+    padding: 2rem;
+    margin: 2rem;
+    font-size: 120%;
+}
+.catagories {
+    font-family: 'oblique', sans-serif !important;
+    border: 5px dotted aquamarine;
+    margin: 2rem;
+    padding: 1rem;
+
+}
+.catagories h1 {
+    font-family: 'oblique', sans-serif !important;
+    text-align: center;
+}
+.catagories li{
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    border-bottom:dotted 1px aquamarine;
+}
