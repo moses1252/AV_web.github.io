@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans');
+
+@-ms-viewport{
+    width: device-width;
+}
+body {
+    background-image: url('../Images/coffeeshop.jpg');
+}
+.nav-item {
+    text-align: right;
+}
+
+.port {
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Courier New';
+    word-spacing: 7px;
+    margin-top: 30px;
+}
+.sum{
+    font-size: medium;
+    font-family: 'Courier New';
+    color: white;
+    font-size: 20px;
+    margin-top: 3rem;
+    margin-left: 17.5rem;
+    margin-right: 17rem;
+}
+.what {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Courier New';
+    word-spacing: 7px;
+    margin-top: 20px;
+}
+.points {
+    font-size: medium;
+    font-family: 'Courier New';
+    color: white;
+    background-color: gray;
+    border-radius: 25px;
+    font-size: 20px;
+    margin-top: 3rem;
+    margin-left: 23.5rem;
+    margin-right: 17rem;
+}

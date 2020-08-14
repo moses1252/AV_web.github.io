@@ -1,0 +1,16 @@
+body {
+    background-image: url('../Images/coffee.jpg');
+}
+.nav-item {
+    text-align: right;
+}
+.me {
+    margin-left: 60px;
+    margin-top: 230px;
+}
+.design {
+    color: whitesmoke;
+    font-size: 60px;
+    word-spacing: 7px;
+    font-family: 'Courier New';
+}

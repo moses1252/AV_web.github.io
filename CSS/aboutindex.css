@@ -1,0 +1,29 @@
+
+body { 
+    background-image: url('../Images/coffeeshop.jpg');
+}
+
+.nav-item {
+    text-align: right;
+}
+
+.about {
+    color: white;
+    font-family: 'Courier New';
+    text-align: center;
+}
+
+.story {
+    color: white;
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 40px;
+    margin-top: 7rem;
+}
+
+.sum{
+    font-size: medium;
+    font-family: 'Courier New';
+    margin-left: 17.5rem;
+    margin-right: 17rem;
+}
