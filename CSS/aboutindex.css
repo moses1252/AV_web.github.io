@@ -22,8 +22,12 @@ body {
 }
 
 .sum{
-    font-size: medium;
+    font-size: 24px;
     font-family: 'Courier New';
+    color: white;
+    background-color: gray;
+    border-radius: 25px;
     margin-left: 17.5rem;
     margin-right: 17rem;
 }
+
