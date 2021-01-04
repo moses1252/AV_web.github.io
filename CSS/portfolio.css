@@ -9,6 +9,9 @@ body {
 .nav-item {
     text-align: right;
 }
+.jumbotron {
+    background: rgba(0, 0, 0, .0001);
+}
 
 .port {
     text-align: center;
@@ -21,11 +24,10 @@ body {
 .sum{
     font-size: medium;
     font-family: 'Courier New';
+    background-color: gray;
+    border-radius: 25px;
     color: white;
     font-size: 20px;
-    margin-top: 3rem;
-    margin-left: 17.5rem;
-    margin-right: 17rem;
 }
 .what {
     text-align: center;
@@ -42,6 +44,4 @@ body {
     border-radius: 25px;
     font-size: 20px;
     margin-top: 3rem;
-    margin-left: 23.5rem;
-    margin-right: 17rem;
 }

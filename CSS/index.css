@@ -14,3 +14,6 @@ body {
     word-spacing: 7px;
     font-family: 'Courier New';
 }
+.jumbotron {
+    background: rgba(0, 0, 0, .0001);
+}
