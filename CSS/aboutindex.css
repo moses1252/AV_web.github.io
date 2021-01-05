@@ -8,13 +8,14 @@ body {
 }
 
 .about {
-    color: white;
-    font-family: 'Courier New';
+    color: black;
     text-align: center;
+    font-family: 'Courier New';
+    font-size: 40px;
 }
 
 .story {
-    color: white;
+    color: black;
     text-align: center;
     font-family: 'Courier New';
     font-size: 40px;
@@ -24,10 +25,11 @@ body {
 .sum{
     font-size: 24px;
     font-family: 'Courier New';
-    color: white;
+    color: black;
     background-color: gray;
     border-radius: 25px;
-    margin-left: 17.5rem;
-    margin-right: 17rem;
+}
+.jumbotron {
+    background: rgba(0, 0, 0, .0001);
 }
 
