@@ -215,7 +215,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "who i am";
+    content: "who I am";
 }
 .about .about-content .left{
     width: 45%;
@@ -549,6 +549,11 @@ footer span a{
 }
 footer span a:hover{
     text-decoration: underline;
+}
+
+.column-middle {
+    margin: auto;
+    width: 50%;
 }
 
 
