@@ -375,7 +375,19 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .mysql::before{
-    width: 60%;
+    width: 40%;
+}
+.skills-content .right .github::before{
+    width: 45%;
+}
+.skills-content .right .python::before{
+    width: 25%;
+}
+.skills-content .right .bootstrap::before{
+    width: 70%;
+}
+.skills-content .right .react::before{
+    width: 40%;
 }
 
 /* teams section styling */
