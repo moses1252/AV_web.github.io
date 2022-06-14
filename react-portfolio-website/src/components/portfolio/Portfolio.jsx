@@ -1,8 +1,8 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
+import IMG1 from '../../assets/portfolio_1.jpg'
+import IMG2 from '../../assets/portfolio_2.jpg'
+import IMG3 from '../../assets/portfolio_3.jpg'
 
 // DO NOT USE THE IMAGES IN PRODCTION
 
@@ -10,20 +10,23 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com'
+    title: "Jasel's Personal Portfolio",
+    github: 'https://jaselvivas.com/',
+    demo: 'Demo'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com'
+    title: 'My first website',
+    github: 'https://moses1252.github.io/First_Website.github.io/',
+    demo: 'Demo'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Maintaining tasks and tracking progress',
-    github: 'https://github.com'
+    title: 'Second attempt at redesigning website',
+    github: 'https://moses1252.github.io/Second_Website.github.io/',
+    demo: 'Demo'
   }
 ]
 
@@ -43,7 +46,7 @@ const Portfolio = () => {
                 </div>
                 <h3>{title}</h3>
                 <div className="portfolio__item-cta">
-                  <a href={github} className='btn' target='_blank'>GitHub</a>
+                  <a href={github} className='btn' target='_blank'>{demo}</a>
                 </div>
               </article>
             )
