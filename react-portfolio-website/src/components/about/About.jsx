@@ -41,10 +41,11 @@ const About = () => {
             I graduated from California State University of Los Angeles with a
             bachelors degree in Computer Science. My love for making websites
             came from attending a webpage workshop provided by Association for
-            Computing Machinery. I've been work on my own website making sure it
-            is up to date with the current standards, but I am challenging
-            myself to improve my skillset by providing future clients with
-            amazing websites.
+            Computing Machinery. I've been working on my own website making sure
+            it is up to date with the current standards, but I am challenging
+            myself to improve my programming skillset by programming with java
+            daily. I love to try new things by pushing my self to keep with with
+            MySQL.
           </p>
 
           <a href="#contact" className="btn btn-primary">

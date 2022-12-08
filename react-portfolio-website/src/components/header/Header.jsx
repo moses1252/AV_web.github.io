@@ -16,13 +16,17 @@ const Header = () => {
           <span id="codeText">
             <Typed
               className="typed"
-              strings={["Full Stack Developer", "Computer Scientist", "Cal State La Alumni", "Freelancer"]}
+              strings={[
+                "Full Stack Developer",
+                "Computer Scientist",
+                "Cal State La Alumni",
+                "Freelancer",
+              ]}
               typeSpeed={100}
               backSpeed={50}
               backDelay={60}
               loop
             />
-            
           </span>
         </div>
         <CTA />
