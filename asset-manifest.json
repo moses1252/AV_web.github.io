@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AV_web.github.io/static/css/main.763f526a.css",
-    "main.js": "/AV_web.github.io/static/js/main.3926a3e1.js",
+    "main.js": "/AV_web.github.io/static/js/main.fdc977d8.js",
     "static/media/professional_photo_black.png": "/AV_web.github.io/static/media/professional_photo_black.6c49cdc84a24cba86671.png",
     "static/media/me_portrait.png": "/AV_web.github.io/static/media/me_portrait.4ef010d0a723065cdd1b.png",
     "static/media/Resume.pdf": "/AV_web.github.io/static/media/Resume.2df304431e770bec2151.pdf",
@@ -10,10 +10,10 @@
     "static/media/portfolio_2.jpg": "/AV_web.github.io/static/media/portfolio_2.86e939cc1357a6ba2336.jpg",
     "index.html": "/AV_web.github.io/index.html",
     "main.763f526a.css.map": "/AV_web.github.io/static/css/main.763f526a.css.map",
-    "main.3926a3e1.js.map": "/AV_web.github.io/static/js/main.3926a3e1.js.map"
+    "main.fdc977d8.js.map": "/AV_web.github.io/static/js/main.fdc977d8.js.map"
   },
   "entrypoints": [
     "static/css/main.763f526a.css",
-    "static/js/main.3926a3e1.js"
+    "static/js/main.fdc977d8.js"
   ]
 }
