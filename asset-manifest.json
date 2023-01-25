@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/AV_web.github.io/static/css/main.763f526a.css",
-    "main.js": "/AV_web.github.io/static/js/main.fdc977d8.js",
-    "static/media/professional_photo_black.png": "/AV_web.github.io/static/media/professional_photo_black.6c49cdc84a24cba86671.png",
-    "static/media/me_portrait.png": "/AV_web.github.io/static/media/me_portrait.4ef010d0a723065cdd1b.png",
-    "static/media/Resume.pdf": "/AV_web.github.io/static/media/Resume.2df304431e770bec2151.pdf",
-    "static/media/portfolio_1.jpg": "/AV_web.github.io/static/media/portfolio_1.1c43c85c223e69115604.jpg",
-    "static/media/portfolio_3.jpg": "/AV_web.github.io/static/media/portfolio_3.f6f0f47ea60a933bc7fa.jpg",
-    "static/media/portfolio_2.jpg": "/AV_web.github.io/static/media/portfolio_2.86e939cc1357a6ba2336.jpg",
-    "index.html": "/AV_web.github.io/index.html",
-    "main.763f526a.css.map": "/AV_web.github.io/static/css/main.763f526a.css.map",
-    "main.fdc977d8.js.map": "/AV_web.github.io/static/js/main.fdc977d8.js.map"
+    "main.css": "/AV_web.github.io/public/static/css/main.763f526a.css",
+    "main.js": "/AV_web.github.io/public/static/js/main.4038146b.js",
+    "static/media/professional_photo_black.png": "/AV_web.github.io/public/static/media/professional_photo_black.6c49cdc84a24cba86671.png",
+    "static/media/me_portrait.png": "/AV_web.github.io/public/static/media/me_portrait.4ef010d0a723065cdd1b.png",
+    "static/media/Resume.pdf": "/AV_web.github.io/public/static/media/Resume.2df304431e770bec2151.pdf",
+    "static/media/portfolio_1.jpg": "/AV_web.github.io/public/static/media/portfolio_1.1c43c85c223e69115604.jpg",
+    "static/media/portfolio_3.jpg": "/AV_web.github.io/public/static/media/portfolio_3.f6f0f47ea60a933bc7fa.jpg",
+    "static/media/portfolio_2.jpg": "/AV_web.github.io/public/static/media/portfolio_2.86e939cc1357a6ba2336.jpg",
+    "index.html": "/AV_web.github.io/public/index.html",
+    "main.763f526a.css.map": "/AV_web.github.io/public/static/css/main.763f526a.css.map",
+    "main.4038146b.js.map": "/AV_web.github.io/public/static/js/main.4038146b.js.map"
   },
   "entrypoints": [
     "static/css/main.763f526a.css",
-    "static/js/main.fdc977d8.js"
+    "static/js/main.4038146b.js"
   ]
 }
